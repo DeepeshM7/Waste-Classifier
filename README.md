@@ -5,4 +5,7 @@ We deal here with a simple Binary Classification problem, where we will be class
 
 # Sample:
 
+Input
+![](input.png)
+
 
