@@ -7,7 +7,8 @@ We deal here with a simple Binary Classification problem, where we will be class
 
 Input
 <img src="Images/input.png" height ="250">
-<img src="Images/implies.jng" height ="500">
+<img align="center" src="Images/implies.jpg" height ="150">
+
 Output
-<img src="Images/implies.jng" height ="500">
+<img src="Images/output.png" height ="250">
 
