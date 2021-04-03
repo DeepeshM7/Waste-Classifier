@@ -6,6 +6,8 @@ We deal here with a simple Binary Classification problem, where we will be class
 # Sample:
 
 Input
-![](input.png)
-
+<img src="Images/input.png" height ="250">
+<img src="Images/implies.jng" height ="500">
+Output
+<img src="Images/implies.jng" height ="500">
 
